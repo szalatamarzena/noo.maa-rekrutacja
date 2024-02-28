@@ -73,5 +73,5 @@ function expandGallery() {
     }
 }
 
-document.querySelector('.show-more').addEventListener('click', expandGallery); // TODO: dodać od razu w html?
+document.querySelector('.show-more').addEventListener('click', expandGallery);
 
